@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625028226894",
+    "firebase_url": "https://event-booking-app-db.firebaseio.com",
+    "project_id": "event-booking-app-db",
+    "storage_bucket": "event-booking-app-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625028226894:android:b4db3b2db93d145aa5c81f",
+        "android_client_info": {
+          "package_name": "com.uos.eventbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625028226894-jha7cffhofg8q8ea9n6k5fsqls3adgsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNUNRnVRt2QB0Zvg5nOQXb-IsBExNSeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625028226894-jha7cffhofg8q8ea9n6k5fsqls3adgsj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625028226894-piqo0mg3nf61i0jcgoeocfhijt791881.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uos.eventbooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
